@@ -9,5 +9,4 @@ function NewApp() {
   );
 }
 
-// default export 추가
 export default NewApp;
